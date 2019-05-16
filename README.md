@@ -38,7 +38,7 @@ tagName ->	driver.findElement (By.tagName(“input”)) ->	Locate by value of it
 
 
 # Reference:
-The following article were a  helpful reference for this project:
+The following articles were a  helpful reference for this project:
 
 https://www.softwaretestinghelp.com/selenium-webdriver-tutorial-10/
 https://medium.freecodecamp.org/better-web-scraping-in-python-with-selenium-beautiful-soup-and-pandas-d6390592e251
